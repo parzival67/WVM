@@ -1,0 +1,7 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "IIS3DWBTR")(type "KiCad")(uri "${KIPRJMOD}/libraries/IIS3DWBTR")(options "")(descr ""))
+  (lib (name "NORA-W106-00B")(type "KiCad")(uri "${KIPRJMOD}/libraries/NORA-W106-00B")(options "")(descr ""))
+  (lib (name "TPS63036YFGT")(type "KiCad")(uri "${KIPRJMOD}/libraries/TPS63036YFGT")(options "")(descr ""))
+  (lib (name "USB4215-03-A")(type "KiCad")(uri "${KIPRJMOD}/libraries/USB4215-03-A")(options "")(descr ""))
+)
