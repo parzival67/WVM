@@ -4,4 +4,5 @@
   (lib (name "NORA-W106-00B")(type "KiCad")(uri "${KIPRJMOD}/libraries/NORA-W106-00B")(options "")(descr ""))
   (lib (name "TPS63036YFGT")(type "KiCad")(uri "${KIPRJMOD}/libraries/TPS63036YFGT")(options "")(descr ""))
   (lib (name "USB4215-03-A")(type "KiCad")(uri "${KIPRJMOD}/libraries/USB4215-03-A")(options "")(descr ""))
+  (lib (name "S2B_PH_SM4_TB")(type "KiCad")(uri "${KIPRJMOD}/libraries/S2B_PH_SM4_TB")(options "")(descr ""))
 )
