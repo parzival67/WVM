@@ -5,4 +5,5 @@
   (lib (name "TPS63036YFGT")(type "KiCad")(uri "${KIPRJMOD}/libraries/TPS63036YFGT")(options "")(descr ""))
   (lib (name "USB4215-03-A")(type "KiCad")(uri "${KIPRJMOD}/libraries/USB4215-03-A")(options "")(descr ""))
   (lib (name "S2B_PH_SM4_TB")(type "KiCad")(uri "${KIPRJMOD}/libraries/S2B_PH_SM4_TB")(options "")(descr ""))
+  (lib (name "LP3051_iNDUCTOR")(type "KiCad")(uri "${KIPRJMOD}/libraries/LP3051_iNDUCTOR")(options "")(descr ""))
 )

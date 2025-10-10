@@ -1,8 +1,0 @@
-(sym_lib_table
-  (version 7)
-  (lib (name "NORA-W106-00B")(type "KiCad")(uri "${KIPRJMOD}/libraries/NORA-W106-00B/NORA-W106-00B.kicad_sym")(options "")(descr ""))
-  (lib (name "IIS3DWBTR")(type "KiCad")(uri "${KIPRJMOD}/libraries/IIS3DWBTR/IIS3DWBTR.kicad_sym")(options "")(descr ""))
-  (lib (name "TPS63036YFGT")(type "KiCad")(uri "${KIPRJMOD}/libraries/TPS63036YFGT/TPS63036YFGT.kicad_sym")(options "")(descr ""))
-  (lib (name "USB4215-03-A_REVA")(type "KiCad")(uri "${KIPRJMOD}/libraries/USB4215-03-A/USB4215-03-A_REVA.kicad_sym")(options "")(descr ""))
-  (lib (name "S2B-PH-SM4-TB")(type "KiCad")(uri "${KIPRJMOD}/libraries/S2B_PH_SM4_TB/S2B-PH-SM4-TB.kicad_sym")(options "")(descr ""))
-)
