@@ -8611,7 +8611,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Bat_pad:Untitled"
 			(at 140.97 124.46 0)
 			(effects
 				(font
